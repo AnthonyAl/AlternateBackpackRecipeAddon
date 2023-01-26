@@ -1,2 +1,5 @@
 options:
   auto-update: true
+  #this is how many backpacks (of same size) are needed to create a bigger one
+  #keep the number between 1 and 9 (otherwise it will be reset to 2)
+  backpack-number: 2
